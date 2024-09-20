@@ -17,12 +17,14 @@ namespace lab1
             Task5 task5 = new Task5();
             Task6 task6 = new Task6();
 
-            //task1.Start();
+            task1.Start();
             //task2.Start();
             //task3.Start();
             //task4.Start();
             //task5.Start();
-            task6.Start();
+            //task6.Start();
+
+            Console.ReadKey();
         }
     }
 }

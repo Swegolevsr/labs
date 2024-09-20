@@ -5,3 +5,10 @@ C:\Users\wiser\source\repos\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.ca
 C:\Users\wiser\source\repos\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 C:\Users\wiser\source\repos\lab1\lab1\obj\Debug\lab1.exe
 C:\Users\wiser\source\repos\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Wi\Documents\labs\labs\lab1\lab1\obj\Debug\lab1.pdb

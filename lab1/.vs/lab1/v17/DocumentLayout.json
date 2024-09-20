@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wiser\\source\\repos\\lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|c:\\users\\wiser\\source\\repos\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|c:\\users\\wi\\documents\\labs\\labs\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|c:\\users\\wiser\\source\\repos\\lab1\\lab1\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|solutionrelative:lab1\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|c:\\users\\wiser\\source\\repos\\lab1\\lab1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|solutionrelative:lab1\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|c:\\users\\wiser\\source\\repos\\lab1\\lab1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB52BA9-BAD2-48B4-9F8F-52A94C7A37E1}|lab1\\lab1.csproj|solutionrelative:lab1\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Task6.cs",
-              "DocumentMoniker": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task6.cs",
+              "DocumentMoniker": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task6.cs",
               "RelativeDocumentMoniker": "lab1\\Task6.cs",
-              "ToolTip": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task6.cs",
+              "ToolTip": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task6.cs",
               "RelativeToolTip": "lab1\\Task6.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:44:42.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T12:44:42.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Task5.cs",
-              "DocumentMoniker": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task5.cs",
+              "DocumentMoniker": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task5.cs",
               "RelativeDocumentMoniker": "lab1\\Task5.cs",
-              "ToolTip": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task5.cs",
+              "ToolTip": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task5.cs",
               "RelativeToolTip": "lab1\\Task5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:40:24.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T12:40:24.674Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Task4.cs",
-              "DocumentMoniker": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task4.cs",
+              "DocumentMoniker": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task4.cs",
               "RelativeDocumentMoniker": "lab1\\Task4.cs",
-              "ToolTip": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Task4.cs",
+              "ToolTip": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Task4.cs",
               "RelativeToolTip": "lab1\\Task4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:33:40.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T12:33:40.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
-              "ToolTip": "C:\\Users\\wiser\\source\\repos\\lab1\\lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\Wi\\Documents\\labs\\labs\\lab1\\lab1\\Program.cs",
               "RelativeToolTip": "lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T11:19:59.299Z",
               "EditorCaption": ""
