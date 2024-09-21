@@ -13,7 +13,9 @@ namespace lab1
         Random rnd = new Random();
 
         public void Start() {
+            Console.WriteLine("First number: ");
             a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Second number: ");
             b = int.Parse(Console.ReadLine());
             Console.WriteLine(rnd.Next(a, b));
         }

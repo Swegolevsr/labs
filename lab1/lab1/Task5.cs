@@ -11,6 +11,7 @@ namespace lab1
         private double a, b, c, d;
 
         public void Start() {
+            Console.WriteLine("Write a, b, c, d in that order:");
             a = double.Parse(Console.ReadLine());
             b = double.Parse(Console.ReadLine());
             c = double.Parse(Console.ReadLine());

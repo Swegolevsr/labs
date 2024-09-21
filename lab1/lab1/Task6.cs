@@ -10,7 +10,8 @@ namespace lab1
     {
         private double a, b, c;
 
-        public void Start() { 
+        public void Start() {
+            Console.WriteLine("Write sides of triangle:");
             a = double.Parse(Console.ReadLine());
             b = double.Parse(Console.ReadLine());
             c = double.Parse(Console.ReadLine());
