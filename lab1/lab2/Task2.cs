@@ -24,8 +24,8 @@ namespace lab2
                 Console.WriteLine("rectangular");
             } else
             {
-                double angleC = Math.Acos((sides[0] + sides[1] - sides[2]) / (2 * sides[0] + sides[1]));
-                Console.WriteLine($"angle C = {(angleC*180) / Math.PI}");
+                double angleC = Math.Acos((sides[0] * sides[0] + sides[1] * sides[1] - sides[2] * sides[2]) / (2 * sides[0] * sides[1])) / Math.PI * 180; ;
+                Console.WriteLine($"not rectangular angle C = {angleC}");
             }
         
         }
